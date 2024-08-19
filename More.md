@@ -1,5 +1,5 @@
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/pyspark-ml
+- Proyect in GitHub: https://github.com/jacesca/pyspark-sales-forecasting
 - Launch jupyter notebook
 ```
 jupyter notebook

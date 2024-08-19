@@ -2,7 +2,7 @@
 - Fork the project into your GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/pyspark-ml.git
+git clone https://github.com/jacesca/pyspark-sales-forecasting.git
 ```
 - Setup environment (it requires python3)
 ```
